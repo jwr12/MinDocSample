@@ -1,6 +1,6 @@
 ---
-page: introduction
-title: Image_№2_from_Introduction
+page: page
+title: Dog Pushing a Wagon
 media_type: image
 
 _title: doggo
