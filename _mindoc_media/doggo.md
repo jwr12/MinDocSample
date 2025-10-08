@@ -1,5 +1,5 @@
 ---
-page: page
+page: introduction
 title: Dog Pushing a Wagon
 media_type: image
 
